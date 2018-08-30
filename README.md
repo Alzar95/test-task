@@ -1,0 +1,1 @@
+**Примечание:** Для загрузки данных на страницу нужно в Google Chrome установить расширение: https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=ru-RU
