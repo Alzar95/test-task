@@ -3,7 +3,9 @@ let listElement, allData;
 dataList.setAttribute("id", "my-list");
 
 function getData() {
-    fetch('http://www.mrsoft.by/data.json')
+    const proxyurl = "https://cors-anywhere.herokuapp.com/";
+    const url = "http://www.mrsoft.by/data.json";
+    fetch(proxyurl + url)
         .then(response => {
                 response.json().then(data => {
                     let elementList;
